@@ -8,7 +8,7 @@ namespace FunDayOff
     {
         public override void Configure(IModConfig config)
         {
-            var newFavorite = config.GetSettingsValue<string>("FUN Slider");
+            var newFavorite = config.GetSettingsValue<int>("FUN Slider");
             ModHelper.Console.WriteLine($"Elevator moved too: {newFavorite}!");
         }
     }
