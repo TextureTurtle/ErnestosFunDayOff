@@ -1,0 +1,26 @@
+{
+  "enabled": true,
+  "settings": {
+
+    "Physics Gun Keybinds:": { "type": "separator" },
+
+    "Tool Gun Keybinds:": { "type": "separator" },
+
+    "Spawn Menu Keybinds:": { "type": "separator" },
+
+
+    "Your Powers:": { "type": "separator" },
+
+    "Big Your Ball": "B",
+    "Small Your Ball": "N",
+    "Equip Scalegun":  "H",
+
+    "Menu Navigation": { "type": "separator" },
+
+    "Up a sibling (default: UpArrow)": "UpArrow",
+    "Down a sibling (default: DownArrow)": "DownArrow",
+    "To parent (default: LeftArrow)": "LeftArrow",
+    "To childs (default: RightArrow)":  "RightArrow"
+
+  }
+}
