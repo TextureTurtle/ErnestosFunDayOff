@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h8AQ4sYUE3Kr2LcmoSmj5z5bcqkYUjNpJyx/c12WtqXQy0/H1J5zd3o4GlOo4hN/4Bno6I6blZcwEwXm3ZI/3g==",
+  "dgSpecHash": "N/6vDNoYmCW2lZJopUJzmi8ZHp3gZUYv8LnxgNODerf6KiE3CH5xsuaC1L4YDTxjItscnayZl/4JWaKpfCSZ7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Space\\Downloads\\ADreamOfHome-main\\FunDayOff\\FunDayOff.csproj",
+  "projectFilePath": "C:\\GitHub\\ErnestosFunDayOff\\FunDayOff\\FunDayOff.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Space\\.nuget\\packages\\harmonyx\\2.5.5\\harmonyx.2.5.5.nupkg.sha512",
     "C:\\Users\\Space\\.nuget\\packages\\json.net.unity3d\\9.0.1\\json.net.unity3d.9.0.1.nupkg.sha512",

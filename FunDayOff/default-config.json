@@ -2,25 +2,33 @@
   "enabled": true,
   "settings": {
 
-    "Physics Gun Keybinds:": { "type": "separator" },
+    "FUN TIME YAYY:": { "type": "separator" },
 
-    "Tool Gun Keybinds:": { "type": "separator" },
+            "FUN Button": {
+            "type": "toggle",
+            "min": 0,
+            "max": 80,
+            "value": 1},
 
-    "Spawn Menu Keybinds:": { "type": "separator" },
+            "Typing Time!!!": "Type Here NOWW",
+
+            "FUN Slider": {
+            "type": "slider",
+            "min": 0,
+            "max": 80,
+            "value": 1},
+
+    	"No no bad very bad area!": { "type": "separator" },
+ 	"": { "type": "separator" },
 
 
-    "Your Powers:": { "type": "separator" },
+	"Code 1": "UH OH SECRET",
+	"Code 2": "UH OH SECRET",
+	"Code 3": "UH OH SECRET",
+	"Code 4": "UH OH SECRET",
+	"Code 5": "UH OH SECRET",
 
-    "Big Your Ball": "B",
-    "Small Your Ball": "N",
-    "Equip Scalegun":  "H",
 
-    "Menu Navigation": { "type": "separator" },
-
-    "Up a sibling (default: UpArrow)": "UpArrow",
-    "Down a sibling (default: DownArrow)": "DownArrow",
-    "To parent (default: LeftArrow)": "LeftArrow",
-    "To childs (default: RightArrow)":  "RightArrow"
 
   }
 }

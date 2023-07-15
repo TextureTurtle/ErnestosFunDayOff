@@ -13,3 +13,17 @@ C:\Users\Space\Downloads\ADreamOfHome-main\FunDayOff\bin\Debug\FunDayOff.dll
 C:\Users\Space\Downloads\ADreamOfHome-main\FunDayOff\bin\Debug\FunDayOff.pdb
 C:\Users\Space\Downloads\ADreamOfHome-main\FunDayOff\obj\Debug\FunDayOff.dll
 C:\Users\Space\Downloads\ADreamOfHome-main\FunDayOff\obj\Debug\FunDayOff.pdb
+C:\GitHub\ErnestosFunDayOff\FunDayOff\bin\Debug\default-config.json
+C:\GitHub\ErnestosFunDayOff\FunDayOff\bin\Debug\manifest.json
+C:\GitHub\ErnestosFunDayOff\FunDayOff\bin\Debug\planets\CaveTwin_Body.json
+C:\GitHub\ErnestosFunDayOff\FunDayOff\bin\Debug\planets\TimberHearth_Body.json
+C:\GitHub\ErnestosFunDayOff\FunDayOff\bin\Debug\addon-manifest.json
+C:\GitHub\ErnestosFunDayOff\FunDayOff\bin\Debug\FunDayOff.dll
+C:\GitHub\ErnestosFunDayOff\FunDayOff\bin\Debug\FunDayOff.pdb
+C:\GitHub\ErnestosFunDayOff\FunDayOff\obj\Debug\FunDayOff.csproj.AssemblyReference.cache
+C:\GitHub\ErnestosFunDayOff\FunDayOff\obj\Debug\FunDayOff.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\ErnestosFunDayOff\FunDayOff\obj\Debug\FunDayOff.AssemblyInfoInputs.cache
+C:\GitHub\ErnestosFunDayOff\FunDayOff\obj\Debug\FunDayOff.AssemblyInfo.cs
+C:\GitHub\ErnestosFunDayOff\FunDayOff\obj\Debug\FunDayOff.csproj.CoreCompileInputs.cache
+C:\GitHub\ErnestosFunDayOff\FunDayOff\obj\Debug\FunDayOff.dll
+C:\GitHub\ErnestosFunDayOff\FunDayOff\obj\Debug\FunDayOff.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Space\\Downloads\\ADreamOfHome-main\\FunDayOff\\FunDayOff.csproj": {}
+    "C:\\GitHub\\ErnestosFunDayOff\\FunDayOff\\FunDayOff.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Space\\Downloads\\ADreamOfHome-main\\FunDayOff\\FunDayOff.csproj": {
+    "C:\\GitHub\\ErnestosFunDayOff\\FunDayOff\\FunDayOff.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Space\\Downloads\\ADreamOfHome-main\\FunDayOff\\FunDayOff.csproj",
+        "projectUniqueName": "C:\\GitHub\\ErnestosFunDayOff\\FunDayOff\\FunDayOff.csproj",
         "projectName": "FunDayOff",
-        "projectPath": "C:\\Users\\Space\\Downloads\\ADreamOfHome-main\\FunDayOff\\FunDayOff.csproj",
+        "projectPath": "C:\\GitHub\\ErnestosFunDayOff\\FunDayOff\\FunDayOff.csproj",
         "packagesPath": "C:\\Users\\Space\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Space\\Downloads\\ADreamOfHome-main\\FunDayOff\\obj\\",
+        "outputPath": "C:\\GitHub\\ErnestosFunDayOff\\FunDayOff\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
