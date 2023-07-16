@@ -1,3 +1,11 @@
 {
-    "$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+    "credits": [
+        "Texture_Turtle#Design, 3D Art, Animation",
+        "Texture_Turtle#Design, Hearthian Dialogue",
+        "Texture_Turtle#Design, Implementation, Writing",
+        "Texture_Turtle#Playtesting",
+        "Outer Wilds Modding Discord#Special Thanks",
+        "JohnCorby#Big help when doing code"
+    ],
+    "popupMessage": "FUCKK YOUU!!! GET YO ASS TO BRITTLE HOLLOW RIGHT FUCKING NOW!!!!!"
 }

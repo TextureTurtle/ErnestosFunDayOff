@@ -1,0 +1,536 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "BrittleHollow",
+	"Base": {
+		"gravityFallOff": "linear"
+	},
+	"Orbit": {},
+	"Props": {
+		"details": [
+			{
+				"assetBundle": "planets/turtle.fuck",
+				"path": "Assets/Texture's Stuff/Jam 2/Code 1 Art.prefab",
+				"scale": 0.399999917,
+				"keepLoaded": true,
+				"rotation": {
+					"x": 359.401459,
+					"y": 317.323853,
+					"z": 7.906004
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -33.97647,
+					"y": 322.9037,
+					"z": -31.9072132
+				}
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Props_Village/OtherComponentsGroup/ObservatoryPath/Prefab_HEA_VillagePlank (39)",
+				"rotation": {
+					"x": 7.553107,
+					"y": 205.20195,
+					"z": 357.58078
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -19.4155655,
+					"y": 326.409668,
+					"z": -12.0901842
+				}
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Props_Village/OtherComponentsGroup/ObservatoryPath/Prefab_HEA_VillagePlank (39)",
+				"rotation": {
+					"x": 7.90836525,
+					"y": 218.86644,
+					"z": 359.427277
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -18.3630257,
+					"y": 326.764923,
+					"z": -9.55876
+				}
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Props_Village/OtherComponentsGroup/ObservatoryPath/Prefab_HEA_VillagePlank (39)",
+				"rotation": {
+					"x": 344.9285,
+					"y": 211.646835,
+					"z": 3.76664352
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -13.2334814,
+					"y": 323.5018,
+					"z": -3.72487116
+				}
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Props_Village/OtherComponentsGroup/ObservatoryPath/Prefab_HEA_VillagePlank (39)",
+				"rotation": {
+					"x": 353.545074,
+					"y": 131.433975,
+					"z": 9.746729
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -15.0493174,
+					"y": 323.670166,
+					"z": -3.9091785
+				}
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Props_Village/OtherComponentsGroup/ObservatoryPath/Prefab_HEA_VillagePlank (39)",
+				"rotation": {
+					"x": 355.8306,
+					"y": 113.877304,
+					"z": 4.08512
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -17.8182755,
+					"y": 323.376343,
+					"z": -3.24373436
+				}
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Props_Village/OtherComponentsGroup/ObservatoryPath/Prefab_HEA_VillagePlank (39)",
+				"rotation": {
+					"x": 348.516449,
+					"y": 176.511185,
+					"z": 348.778137
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -17.126358,
+					"y": 319.1448,
+					"z": 4.85793066
+				}
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Props_Village/OtherComponentsGroup/ObservatoryPath/Prefab_HEA_VillagePlank (39)",
+				"rotation": {
+					"x": 352.015656,
+					"y": 221.5534,
+					"z": 351.132416
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -14.7064276,
+					"y": 319.0946,
+					"z": 6.47430944
+				}
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Props_Village/OtherComponentsGroup/ObservatoryPath/Prefab_HEA_VillagePlank (39)",
+				"rotation": {
+					"x": 358.6646,
+					"y": 253.710953,
+					"z": 354.943634
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -11.8849277,
+					"y": 318.862732,
+					"z": 7.00866127
+				}
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Props_Village/OtherComponentsGroup/ObservatoryPath/Prefab_HEA_VillagePlank (39)",
+				"rotation": {
+					"x": 4.347903,
+					"y": 316.069763,
+					"z": 349.462952
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -9.521946,
+					"y": 319.277924,
+					"z": 4.27003145
+				}
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Props_Village/OtherComponentsGroup/ObservatoryPath/Prefab_HEA_VillagePlank (39)",
+				"rotation": {
+					"x": 3.029225,
+					"y": 325.012634,
+					"z": 351.6081
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -8.238279,
+					"y": 319.6327,
+					"z": 1.14639187
+				}
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Props_Village/OtherComponentsGroup/ObservatoryPath/Prefab_HEA_VillagePlank (39)",
+				"rotation": {
+					"x": 350.9634,
+					"y": 273.150635,
+					"z": 342.307037
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -4.58066,
+					"y": 319.531372,
+					"z": -0.3523785
+				}
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Props_Village/OtherComponentsGroup/ObservatoryPath/Prefab_HEA_VillagePlank (39)",
+				"rotation": {
+					"x": 336.0412,
+					"y": 178.014374,
+					"z": 355.9757
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -3.90501523,
+					"y": 318.192566,
+					"z": 2.54195333
+				}
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Props_Village/OtherComponentsGroup/ObservatoryPath/Prefab_HEA_VillagePlank (39)",
+				"rotation": {
+					"x": 3.248003,
+					"y": 137.331131,
+					"z": 9.838546
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -7.720602,
+					"y": 313.371765,
+					"z": 9.412175
+				}
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Props_Village/OtherComponentsGroup/ObservatoryPath/Prefab_HEA_VillagePlank (39)",
+				"rotation": {
+					"x": 334.808136,
+					"y": 163.3114,
+					"z": 6.533777
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -8.986927,
+					"y": 311.487549,
+					"z": 13.7007
+				}
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Props_Village/OtherComponentsGroup/ObservatoryPath/Prefab_HEA_VillagePlank (39)",
+				"rotation": {
+					"x": 341.420624,
+					"y": 194.513138,
+					"z": 359.0527
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -7.035011,
+					"y": 310.287,
+					"z": 16.8261127
+				}
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Props_Village/OtherComponentsGroup/ObservatoryPath/Prefab_HEA_VillagePlank (39)",
+				"rotation": {
+					"x": 357.7492,
+					"y": 220.924057,
+					"z": 356.29483
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -4.119684,
+					"y": 310.032776,
+					"z": 18.3616123
+				}
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Props_Village/OtherComponentsGroup/ObservatoryPath/Prefab_HEA_VillagePlank (39)",
+				"rotation": {
+					"x": 355.0096,
+					"y": 200.06897,
+					"z": 356.5707
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -3.684833,
+					"y": 309.7827,
+					"z": 21.53452
+				}
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Props_Village/OtherComponentsGroup/ObservatoryPath/Prefab_HEA_VillagePlank (39)",
+				"rotation": {
+					"x": 347.3755,
+					"y": 189.249939,
+					"z": 357.7123
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -3.30075979,
+					"y": 309.230347,
+					"z": 25.5988369
+				}
+			},
+			{
+				"path": "Moon_Body/Sector_THM/Lighting_TM/Props_HEA_Lantern",
+				"rotation": {
+					"x": 354.648132,
+					"y": 355.292328,
+					"z": 5.85867357
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -17.090519,
+					"y": 326.612183,
+					"z": -11.28194
+				}
+			},
+			{
+				"path": "Moon_Body/Sector_THM/Lighting_TM/Props_HEA_Lantern",
+				"rotation": {
+					"x": 356.401276,
+					"y": 262.073181,
+					"z": 9.740168
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -13.2511911,
+					"y": 323.5675,
+					"z": -7.17613554
+				}
+			},
+			{
+				"path": "Moon_Body/Sector_THM/Lighting_TM/Props_HEA_Lantern",
+				"rotation": {
+					"x": 353.6615,
+					"y": 107.744659,
+					"z": 0.222419053
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -19.4488564,
+					"y": 323.297638,
+					"z": -4.489359
+				}
+			},
+			{
+				"path": "Moon_Body/Sector_THM/Lighting_TM/Props_HEA_Lantern",
+				"rotation": {
+					"x": 349.977753,
+					"y": 207.45224,
+					"z": 352.93277
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -15.7637281,
+					"y": 319.778717,
+					"z": 2.669455
+				}
+			},
+			{
+				"path": "Moon_Body/Sector_THM/Lighting_TM/Props_HEA_Lantern",
+				"rotation": {
+					"x": 358.3711,
+					"y": 282.3933,
+					"z": 351.517578
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -12.63801,
+					"y": 320.0539,
+					"z": 0.4658348
+				}
+			},
+			{
+				"path": "Moon_Body/Sector_THM/Lighting_TM/Props_HEA_Lantern",
+				"rotation": {
+					"x": 359.275574,
+					"y": 293.169769,
+					"z": 354.3463
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -4.90350437,
+					"y": 319.945984,
+					"z": -3.34572554
+				}
+			},
+			{
+				"path": "Moon_Body/Sector_THM/Lighting_TM/Props_HEA_Lantern",
+				"rotation": {
+					"x": 348.863861,
+					"y": 200.21907,
+					"z": 3.860765
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -2.381063,
+					"y": 311.676,
+					"z": 9.875468
+				}
+			},
+			{
+				"path": "Moon_Body/Sector_THM/Lighting_TM/Props_HEA_Lantern",
+				"rotation": {
+					"x": 344.3255,
+					"y": 212.091492,
+					"z": 359.3958
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -5.005088,
+					"y": 311.427673,
+					"z": 13.1461143
+				}
+			},
+			{
+				"path": "Moon_Body/Sector_THM/Lighting_TM/Props_HEA_Lantern",
+				"rotation": {
+					"x": 348.232971,
+					"y": 163.156433,
+					"z": 358.843079
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -10.3304787,
+					"y": 309.6444,
+					"z": 19.6054459
+				}
+			},
+			{
+				"path": "Moon_Body/Sector_THM/Lighting_TM/Props_HEA_Lantern",
+				"rotation": {
+					"x": 355.096283,
+					"y": 183.116943,
+					"z": 356.271057
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -6.36387253,
+					"y": 309.01416,
+					"z": 26.0566311
+				}
+			},
+			{
+				"path": "Moon_Body/Sector_THM/Lighting_TM/Props_HEA_Lantern",
+				"rotation": {
+					"x": 350.44458,
+					"y": 239.996582,
+					"z": 348.950623
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 1.05413246,
+					"y": 309.459869,
+					"z": 24.3248863
+				}
+			},
+			{
+				"path": "ConstructionYardIsland_Body/Sector_ConstructionYard/Interactables_ConstructionYard/OrbitalControl/Prefab_NOM_Whiteboard_Shared/Props_NOM_Whiteboard_Shared",
+				"rotation": {
+					"x": 352.091858,
+					"y": 47.1530037,
+					"z": 359.430634
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -33.86769,
+					"y": 322.886627,
+					"z": -32.17552
+				}
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Interactables_Village/Interactables_StaticGeo/OtherComponentsGroup/Props_HEA_Projector",
+				"rotation": {
+					"x": 6.933421,
+					"y": 252.194031,
+					"z": 3.855679
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -30.6351223,
+					"y": 323.388336,
+					"z": -30.2777958
+				}
+			},
+			{
+				"path": "Moon_Body/Sector_THM/Lighting_TM/Props_HEA_Lantern",
+				"rotation": {
+					"x": 359.311676,
+					"y": 317.981,
+					"z": 7.90004349
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -26.8433342,
+					"y": 324.302,
+					"z": -31.4083138
+				}
+			},
+			{
+				"path": "Moon_Body/Sector_THM/Lighting_TM/Props_HEA_Lantern",
+				"rotation": {
+					"x": 357.2988,
+					"y": 113.219505,
+					"z": 352.542877
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -40.63595,
+					"y": 322.930176,
+					"z": -25.44533
+				}
+			},
+			{
+				"path": "Moon_Body/Sector_THM/Lighting_TM/Props_HEA_Lantern",
+				"rotation": {
+					"x": 359.09314,
+					"y": 319.5479,
+					"z": 7.87678957
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -32.62694,
+					"y": 326.6597,
+					"z": -34.83045
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_1/Crater_1_QRedwood/QRedwood (2)/Prefab_TH_Redwood",
+				"scale": 5.0,
+				"keepLoaded": true,
+				"rotation": {
+					"x": 359.6711,
+					"y": 159.956955,
+					"z": 355.325653
+				},
+				"alignRadial": false,
+				"position": {
+					"x": -25.4171238,
+					"y": 295.1143,
+					"z": -17.1913586
+				}
+			}
+		],
+		"signals": [
+			{
+				"frequency": "Ernesto FM Radio",
+				"audio": "planets/Musicy guy.ogg",
+				"maxDistance": 30.0,
+				"position": {
+					"x": 12.62063,
+					"y": -51.43842,
+					"z": 183.3758
+				}
+			}
+		]
+	},
+	"ReferenceFrame": {},
+	"ShipLog": {},
+	"ShockEffect": {}
+}

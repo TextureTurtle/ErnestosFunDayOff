@@ -1,0 +1,77 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Void Land",
+	"starSystem": "Turtle.FunPlace",
+	"Base": {
+		"gravityFallOff": "linear",
+		"centerOfSolarSystem": true
+	},
+	"Orbit": {
+		"isStatic": true
+	},
+	"Props": {
+		"details": [
+			{
+				"assetBundle": "planets/turtle.fuck",
+				"path": "Assets/Texture's Stuff/Jam 2/RoomyGraybox.prefab",
+				"keepLoaded": true,
+				"alignRadial": false,
+				"position": {
+					"x": 22.98887,
+					"y": -98.93857,
+					"z": 227.238739
+				},
+				"rename": "CoolRuins"
+			}
+		],
+		
+		"signals": [
+			{
+				"frequency": "Ernesto FM Radio",
+				"audio": "planets/Musicy guy.ogg",
+				"maxDistance": 30.0,
+				"position": {
+					"x": 12.62063,
+					"y": -51.43842,
+					"z": 183.3758
+				}
+			}
+		],
+		"singularities": [
+			{
+				"pairedSingularity": "Ending Warp Origin",
+				"uniqueID": "Ending Warp Destination",
+				"position": {"x": 19.17736, "y": 72.21146, "z": -149.574},
+				"horizonRadius": 0.1,
+				"distortRadius": 1.0,
+				"targetStarSystem": "Turtle.FunPlace",
+				"hasWarpEffects": true,
+				"renderQueueOverride": 2985
+			}
+		]
+	},
+	"Volumes": {
+		"oxygenVolumes": [
+			{
+				"radius": 2000000
+			}
+		]
+	},
+	"Spawn": {
+		"playerSpawn": {
+			"startWithSuit": false,
+			"position": {"x": 25.07458, "y": -98.93988, "z": 227.0983},
+			"rotation": {"x": 0, "y": 264.0877, "z": 0}
+		},
+		"shipSpawn": {
+			"position": {
+				"x": 35.65767,
+				"y": -54.85548,
+				"z": 4.103377
+			}
+		}
+	},
+	"ReferenceFrame": {},
+	"ShipLog": {},
+	"ShockEffect": {}
+}

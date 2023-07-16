@@ -16,7 +16,6 @@ C:\Users\Space\Downloads\ADreamOfHome-main\FunDayOff\obj\Debug\FunDayOff.pdb
 C:\GitHub\ErnestosFunDayOff\FunDayOff\bin\Debug\default-config.json
 C:\GitHub\ErnestosFunDayOff\FunDayOff\bin\Debug\manifest.json
 C:\GitHub\ErnestosFunDayOff\FunDayOff\bin\Debug\planets\CaveTwin_Body.json
-C:\GitHub\ErnestosFunDayOff\FunDayOff\bin\Debug\planets\TimberHearth_Body.json
 C:\GitHub\ErnestosFunDayOff\FunDayOff\bin\Debug\addon-manifest.json
 C:\GitHub\ErnestosFunDayOff\FunDayOff\bin\Debug\FunDayOff.dll
 C:\GitHub\ErnestosFunDayOff\FunDayOff\bin\Debug\FunDayOff.pdb
@@ -27,3 +26,8 @@ C:\GitHub\ErnestosFunDayOff\FunDayOff\obj\Debug\FunDayOff.AssemblyInfo.cs
 C:\GitHub\ErnestosFunDayOff\FunDayOff\obj\Debug\FunDayOff.csproj.CoreCompileInputs.cache
 C:\GitHub\ErnestosFunDayOff\FunDayOff\obj\Debug\FunDayOff.dll
 C:\GitHub\ErnestosFunDayOff\FunDayOff\obj\Debug\FunDayOff.pdb
+C:\GitHub\ErnestosFunDayOff\FunDayOff\bin\Debug\planets\turtle.fuck
+C:\GitHub\ErnestosFunDayOff\FunDayOff\bin\Debug\planets\Brittle Hollow.json
+C:\GitHub\ErnestosFunDayOff\FunDayOff\bin\Debug\planets\Musicy guy.ogg
+C:\GitHub\ErnestosFunDayOff\FunDayOff\bin\Debug\planets\VoidLand.json
+C:\GitHub\ErnestosFunDayOff\FunDayOff\bin\Debug\systems\Turtle.FunPlace.json

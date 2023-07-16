@@ -1,15 +1,22 @@
-﻿using OWML.Common;
-using OWML.ModHelper;
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 
-namespace FunDayOff
+
+public class FunElevator : MonoBehaviour
 {
+    public Transform target;
+    public int Maxheight = 8;
+    public float RealSlider = 0;
+    public static float SliderValue = 0;
 
-    public class FunElevator : ModBehaviour
+
+    // BRO I HAVE NO FUCKING CLUE WHAT I AM DOING!!!!!!!!!!!!!
+    void FixedUpdate()
     {
-        public override void Configure(IModConfig config)
-        {
-            var newFavorite = config.GetSettingsValue<int>("FUN Slider");
-            ModHelper.Console.WriteLine($"Elevator moved too: {newFavorite}!");
-        }
+        RealSlider = Mathf.Clamp((SliderValue / 10), 0, 8);
+
+        target.localPosition = new Vector3(0.0f, Mathf.Lerp(target.localPosition.y, RealSlider, 0.01f), 0.0f);
+
     }
 }
